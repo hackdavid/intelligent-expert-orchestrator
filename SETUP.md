@@ -9,8 +9,8 @@
 
 ### 1. Clone and Navigate
 ```bash
-git clone <your-repo-url>
-cd adventure_system
+git clone https://github.com/hackdavid/intelligent-expert-orchestrator
+cd intelligent-expert-orchestrator
 ```
 
 ### 2. Create Virtual Environment

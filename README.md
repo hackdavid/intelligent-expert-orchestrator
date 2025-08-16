@@ -167,8 +167,8 @@ The framework supports multiple data sources that can be easily integrated:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd adventure_system
+git clone https://github.com/hackdavid/intelligent-expert-orchestrator
+cd intelligent-expert-orchestrator
 ```
 
 ### 2. Create Virtual Environment
