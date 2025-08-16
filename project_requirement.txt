@@ -1,0 +1,46 @@
+Goal
+Design and implement a prototype of a conversational AI coach that can support entrepreneurs by answering business-related questions, giving motivational nudges, and helping the user take actionable steps forward.
+
+Scenario
+You're developing Anna, the AI coach for first-time entrepreneurs. The coach needs to sound helpful, be able to answer basic business questions, and guide users through their early steps.
+
+Task
+Build a prototype of a conversational agent that can:
+Answer entrepreneurship-related questions (e.g. “How do I validate my idea?”).
+Ask the user goal-oriented follow-up questions (e.g. “Who’s your target customer?”).
+Based on this, provide actionable coaching (e.g. "Since you haven't yet defined your target customer, I suggest we get this done by ...")
+Use a local knowledge base or provide live search integration to improve responses.
+Log interactions and reflect basic reasoning behind the AI's decisions (e.g. "I'm asking this because...").
+
+Requirements
+Use Python (or your preferred language) with relevant NLP/LLM tools.
+Any LLM of your choice
+Any knowledge base of your choice
+You may use LangChain, LangGraph, RAG techniques, or equivalent frameworks.
+You can simulate user input/output via CLI, simple web UI, or notebook.
+Deploy it wherever you prefer, that is publicly available to us to view and test
+
+Bonuses
+Clear prompt engineering strategy/reasoning.
+Creative use of retrieval techniques (e.g. embedding knowledge).
+Integration with external APIs or tools (e.g. search, WhatsApp, Discord).
+Modular design & thoughtful edge-case handling.
+Reasoning or reflection layer (basic self-debugging or transparency).
+Any other surprises we haven't expected!
+
+Deliverables
+Source code (well-commented) (Github repo link)
+Link to deployed app
+Brief write-up (1 page max):
+Architecture overview
+Design decisions and trade-offs
+Ideas for improvement if you had more time
+(Optional) Demo video or notebook walkthrough
+
+Time Limit
+Aim to spend not more than 1 full day max (6-8h). Don’t over-polish it or overthink — we value your thought process more than a perfect system. Once the test is completed, please send it to us at least 24h before our meet, so we have time to review.
+
+Converstation between me and clients
+
+me : From which data our agent will give answer like from web search data or LLL knowledge or our own custom data store somewhere. 
+client : Or perhaps a combination of the options mentioned? I’ll leave that for you to decide, show us your agency and problem solving skills!
